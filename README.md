@@ -1,0 +1,2 @@
+# minez-course
+Mines
